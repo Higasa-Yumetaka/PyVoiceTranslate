@@ -1,0 +1,106 @@
+2024-07-03 14:27:14.226 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 14:27:14.227 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 14:27:16.686 | INFO     | __main__:SpeechRecognition:100 - {'text': '你好今天天气多云转暴雨', 'confidence': 0.9252469378939421}
+2024-07-03 14:27:17.334 | INFO     | __main__:translate:71 - {'Translated text': 'I hope today's weather is cloudy and rainy.'}
+2024-07-03 15:13:07.828 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 15:13:07.829 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 15:13:09.572 | INFO     | __main__:SpeechRecognition:95 - {'text': '你好今天天气多云转暴雨', 'confidence': 0.9252469378939421}
+2024-07-03 15:13:09.622 | ERROR    | __main__:translate:65 - Translation error: name 'translator' is not defined
+2024-07-03 15:14:39.530 | INFO     | __main__:<module>:66 - loaded NLLB model from ./nllb-200-distilled-600M
+2024-07-03 15:15:13.042 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 15:15:13.043 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 15:15:14.932 | INFO     | __main__:SpeechRecognition:108 - {'text': '你好今天天气多云转暴雨', 'confidence': 0.9252469378939421}
+2024-07-03 15:15:15.712 | INFO     | __main__:translate:75 - {'Translated text': 'I hope today's weather is cloudy and rainy.'}
+2024-07-03 15:20:05.926 | INFO     | __main__:<module>:66 - loaded NLLB model from ./nllb-200-distilled-600M
+2024-07-03 15:20:10.516 | INFO     | __main__:onModelLoaded:325 - loaded NLLB model from ./nllb-200-distilled-600M
+2024-07-03 15:20:31.088 | INFO     | __main__:<module>:66 - loaded NLLB model from ./nllb-200-distilled-600M
+2024-07-03 15:20:35.034 | INFO     | __main__:onModelLoaded:325 - loaded NLLB model from ./nllb-200-distilled-600M
+2024-07-03 15:27:40.997 | INFO     | __main__:onModelLoaded:401 - NLLB model loaded successfully
+2024-07-03 15:28:21.372 | INFO     | __main__:onModelLoaded:401 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 15:29:01.199 | INFO     | __main__:onModelLoaded:401 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 15:29:22.388 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 15:29:22.388 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 15:29:24.439 | INFO     | __main__:SpeechRecognition:121 - {'text': '你好今天天气多云转暴雨', 'confidence': 0.9252469378939421}
+2024-07-03 15:29:25.090 | INFO     | __main__:translate:183 - {'Translated text': 'I hope today's weather is cloudy and rainy.'}
+2024-07-03 15:35:02.860 | INFO     | __main__:onModelLoaded:400 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 15:56:59.358 | INFO     | __main__:saveRecording:101 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 15:57:00.227 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 15:57:00.227 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:02:53.028 | INFO     | __main__:onModelLoaded:410 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:11:28.530 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:14:51.673 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:14:52.818 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:14:52.818 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:14:54.728 | INFO     | __main__:SpeechRecognition:128 - {'text': '这样', 'confidence': 0.43838440824489716}
+2024-07-03 16:14:55.125 | INFO     | __main__:translate:193 - {'Translated text': 'This is how it is.'}
+2024-07-03 16:15:21.571 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:15:36.710 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:15:37.441 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:15:37.441 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:15:39.572 | INFO     | __main__:SpeechRecognition:128 - {'text': '人口最近一周二十五度到三十四度挺热的以多云天为主最近一周整体空气质量良好', 'confidence': 0.9161169679170671}
+2024-07-03 16:15:40.919 | INFO     | __main__:translate:193 - {'Translated text': 'Population has been very hot in the past week, from 25° to 34°C, with a cloud-based atmosphere that has been very hot in the past week.'}
+2024-07-03 16:16:12.075 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:16:12.666 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:16:12.666 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:16:13.891 | INFO     | __main__:SpeechRecognition:128 - {'text': '南京浦口最近一周二十五度到三十四度挺热的以多云天为主最近一周整体空气质量良好', 'confidence': 0.8504173800528575}
+2024-07-03 16:16:15.393 | INFO     | __main__:translate:193 - {'Translated text': 'Nanjing-Puu has been extremely hot for the past week, with temperatures ranging from 25°C to 34°C, and the overall air quality has been good for the past week, mostly due to the cloud.'}
+2024-07-03 16:17:00.662 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:17:01.238 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:17:01.239 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:17:02.748 | INFO     | __main__:SpeechRecognition:128 - {'text': '啊啊', 'confidence': 0.4454422956100249}
+2024-07-03 16:17:03.064 | INFO     | __main__:translate:193 - {'Translated text': ''}
+2024-07-03 16:17:56.438 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:17:56.438 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:18:00.407 | INFO     | __main__:SpeechRecognition:128 - {'text': '唯一的一辆破急布满山沟里面乱钻四处骂人督战你们先上就只有一辆缉普车了太穷了就这一辆机普车还绑在他李达康的屁股上我们都是骑自行车说李达康知不知道党的组织原则谁是一把手据汉东的同志讲啊李达康就是这么强势他做县长县长是一把手他做书记书记是一把手那他得要当了省长我还得听他的了他这个省长还当得了吗不管怎么说他老婆总是出事了吗那是前妻欧阳菁指他前妻如哥我最后我再说一句啊能不能帮我个小忙说把那陈清泉放了别再追究了这陈清泉跟你有商务往来呀我不认这人他说高晓琴的人那你管这么宽干吗呀真以天下为己任了以天下为己任那是你们的事我就是一商人再商盐商你们在这个山水庄园抓走人了让我赵某仁很没面子所以我求求你能不能让把人放这事你还真说晚了是成为已经开过会了决定', 'confidence': 0.0050363877519834545}
+2024-07-03 16:18:01.649 | INFO     | __main__:translate:193 - {'Translated text': 'The only one that has been drilled through the gorge is a scolding war. Before you, there was only one van, too poor, and that van still tied to Li Dakan's ass. We all rode on bicycles.'}
+2024-07-03 16:27:46.978 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:27:48.091 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:27:48.091 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:28:09.477 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:29:14.564 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:29:16.539 | INFO     | wenet.cli.model:load_model:177 - loaded model --eng_Latn from ./wenet/language_models/english
+2024-07-03 16:29:16.540 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:29:18.925 | INFO     | __main__:SpeechRecognition:128 - {'text': "▁A▁MAN▁GOES▁TO▁THE▁DOCTOR▁AND▁SAYS▁DOCTOR▁I'VE▁GOT▁A▁PROBLEM▁I▁CAN▁STOP▁SINGING▁THE▁GREEN▁RINGRESS▁OF▁HOW▁THE▁DOCTOR▁SAYS▁THE▁SUN▁LIKE▁TANGHONG'▁SYNDROME▁IS▁ANTI-COMMON▁AS▁THE▁MAN▁THE▁DOCTOR▁REPLIES▁IT'S▁NOT▁UNUSUAL", 'confidence': 0.4758671340614723}
+2024-07-03 16:29:20.603 | INFO     | __main__:translate:193 - {'Translated text': '一个男人去医生,说医生,我有问题,我可以停止唱绿色的声音,医生说太阳像洪综合症是反常的,因为医生回答说,这并不罕见.'}
+2024-07-03 16:33:29.742 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:38:31.159 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:38:32.037 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:38:32.038 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:38:34.562 | INFO     | __main__:SpeechRecognition:128 - {'text': '记忆重要信息是一个涉及多种策略的过程包括重复关联分类笔记记忆技巧并期复习理解信息以及保证充足的休息和睡眠每个人都有自己独特的记忆方式所以尝试并找到最适合自己的方法至关重要良好的生活习惯和健康状态也是提高记忆力的关键因素', 'confidence': 0.31271551483474247}
+2024-07-03 16:38:36.579 | INFO     | __main__:translate:193 - {'Translated text': 'Memory information is a process involving multiple strategies including repeatedly associating classification of memory techniques and synchronizing recall of understanding information and ensuring adequate rest and sleep, each with their own unique memory pathway so trying and finding the best way to fit your own is essential good lifestyle habits and health are also key factors in improving memory.'}
+2024-07-03 16:39:17.063 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:39:17.063 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:39:20.830 | INFO     | __main__:SpeechRecognition:128 - {'text': '唯一的一辆破急布满山沟里面乱钻四处骂人督战你们先上就只有一辆缉普车了太穷了就这一辆机普车还绑在他李达康的屁股上我们都是骑自行车说李达康知不知道党的组织原则谁是一把手据汉东的同志讲啊李达康就是这么强势他做县长县长是一把手他做书记书记是一把手那他得要当了省长我还得听他的了他这个省长还当得了吗不管怎么说他老婆总是出事了吗那是前妻欧阳菁指他前妻如哥我最后我再说一句啊能不能帮我个小忙说把那陈清泉放了别再追究了这陈清泉跟你有商务往来呀我不认这人他说高晓琴的人那你管这么宽干吗呀真以天下为己任了以天下为己任那是你们的事我就是一商人再商盐商你们在这个山水庄园抓走人了让我赵某仁很没面子所以我求求你能不能让把人放这事你还真说晚了是成为已经开过会了决定', 'confidence': 0.0050363877519834545}
+2024-07-03 16:39:22.293 | INFO     | __main__:translate:193 - {'Translated text': 'The only one that has been drilled through the gorge is a scolding war. Before you, there was only one van, too poor, and that van still tied to Li Dakan's ass. We all rode on bicycles.'}
+2024-07-03 16:39:57.369 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:39:58.115 | INFO     | wenet.cli.model:load_model:177 - loaded model --eng_Latn from ./wenet/language_models/english
+2024-07-03 16:39:58.115 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:39:59.651 | INFO     | __main__:SpeechRecognition:128 - {'text': "▁A▁MAN▁GOES▁TO▁THE▁DOCTOR▁AND▁SAYS▁DOCTOR▁I'VE▁GOT▁A▁PROBLEM▁I▁CAN'T▁STOP▁SINGING▁A▁GREEN▁GREENGRAS▁OF▁HOME▁THE▁DOCTOR▁SAYS▁THAT▁SOUNDS▁LIKE▁TONG-HONG▁SYNDROME▁IS▁HEAD▁COMMON▁AS▁THE▁MAN▁THE▁DOCTOR▁REPLIES▁IT'S▁NOT▁UNUSUAL", 'confidence': 0.5837869967504042}
+2024-07-03 16:40:01.407 | INFO     | __main__:translate:193 - {'Translated text': '一个男人去医生,说医生,我有问题,我不能停止唱一首家里的绿色绿色草.医生说,听起来像洪综合症是头部常见的,医生回答说,这并不罕见.'}
+2024-07-03 16:43:47.223 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 16:45:03.726 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:45:04.703 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:45:04.704 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:45:07.382 | INFO     | __main__:SpeechRecognition:128 - {'text': '记忆重要信息是一个涉及多种策略的过程包括重复关联分类笔记记忆技巧定期复习理解信息以及保证充足的休息和睡眠每个人都有自己独特的记忆方式所以尝试并找到最适合自己的方法之关重要良好的生活习惯和健康状态也是提高记忆力的关键因素', 'confidence': 0.17860571866764244}
+2024-07-03 16:45:09.164 | INFO     | __main__:translate:193 - {'Translated text': 'Memory information is a process involving a variety of strategies including repeatedly associating classification of memory techniques, regularly reviewing of understanding information, and ensuring adequate rest and sleep, so trying and finding the best way to remember is important.'}
+2024-07-03 16:45:22.181 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./wenet/language_models/chinese
+2024-07-03 16:45:22.181 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:45:26.470 | INFO     | __main__:SpeechRecognition:128 - {'text': '唯一的一辆破急布满山沟里面乱钻四处骂人督战你们先上就只有一辆缉普车了太穷了就这一辆机普车还绑在他李达康的屁股上我们都是骑自行车说李达康知不知道党的组织原则谁是一把手据汉东的同志讲啊李达康就是这么强势他做县长县长是一把手他做书记书记是一把手那他得要当了省长我还得听他的了他这个省长还当得了吗不管怎么说他老婆总是出事了吗那是前妻欧阳菁指他前妻如哥我最后我再说一句啊能不能帮我个小忙说把那陈清泉放了别再追究了这陈清泉跟你有商务往来呀我不认这人他说高晓琴的人那你管这么宽干吗呀真以天下为己任了以天下为己任那是你们的事我就是一商人再商盐商你们在这个山水庄园抓走人了让我赵某仁很没面子所以我求求你能不能让把人放这事你还真说晚了是成为已经开过会了决定', 'confidence': 0.0050363877519834545}
+2024-07-03 16:45:28.077 | INFO     | __main__:translate:193 - {'Translated text': 'The only one that has been drilled through the gorge is a scolding war. Before you, there was only one van, too poor, and that van still tied to Li Dakan's ass. We all rode on bicycles.'}
+2024-07-03 16:46:01.706 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 16:46:02.415 | INFO     | wenet.cli.model:load_model:177 - loaded model --eng_Latn from ./wenet/language_models/english
+2024-07-03 16:46:02.415 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 16:46:03.955 | INFO     | __main__:SpeechRecognition:128 - {'text': "▁A▁MAN▁GOES▁TO▁THE▁DOCTOR▁AND▁SAYS▁DOCTOR▁I'VE▁GOT▁A▁PROBLEM▁I▁CAN'T▁STOP▁SINGING▁A▁GREEN▁GREENGRAS▁OF▁HOME▁THE▁DOCTOR▁SAYS▁THAT▁SOUNDS▁LIKE▁TANGZHONG'S▁SYNDROME▁IS▁VERY▁COMMON▁AS▁THE▁MAN▁THE▁DOCTOR▁REPLIES▁IT'S▁NOT▁UNUSUAL", 'confidence': 0.6756742978315173}
+2024-07-03 16:46:05.716 | INFO     | __main__:translate:193 - {'Translated text': '一个男人去医生,说医生,我有问题,我不能停止唱家里的绿色绿色草.医生说,听起来像唐综合症是非常常见的,医生回答说,这并不罕见.'}
+2024-07-03 17:28:34.052 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 19:50:44.049 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 20:15:34.041 | INFO     | __main__:onModelLoaded:413 - NLLB model loaded from ./nllb-200-distilled-600M
+2024-07-03 20:15:36.337 | INFO     | __main__:saveRecording:108 - 录音文件已保存为 recorded_audio_file.wav
+2024-07-03 20:15:37.277 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./language_models/chinese
+2024-07-03 20:15:37.278 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 20:15:39.013 | INFO     | __main__:SpeechRecognition:128 - {'text': '好', 'confidence': 0.034905407945588}
+2024-07-03 20:15:39.246 | INFO     | __main__:translate:193 - {'Translated text': 'Good for you.'}
+2024-07-03 20:15:45.921 | INFO     | wenet.cli.model:load_model:177 - loaded model --zho_Hans from ./language_models/chinese
+2024-07-03 20:15:45.922 | INFO     | wenet.cli.model:load_model:178 - device: cuda
+2024-07-03 20:15:47.080 | INFO     | __main__:SpeechRecognition:128 - {'text': '你好今天天气多云转暴雨', 'confidence': 0.9252469378939421}
+2024-07-03 20:15:47.686 | INFO     | __main__:translate:193 - {'Translated text': 'I hope today's weather is cloudy and rainy.'}

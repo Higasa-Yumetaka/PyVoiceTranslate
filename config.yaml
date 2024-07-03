@@ -1,0 +1,30 @@
+# 支持语言及模型路径
+# language 语言配置
+# - name: GUI显示的语言名称
+#   code: NLLB模型语言代码
+#   model_dir: 语言模型路径
+languages:
+  - name: '中文'
+    code: 'zho_Hans'
+    model_dir: './language_models/chinese'
+  - name: 'English'
+    code: 'eng_Latn'
+    model_dir: './language_models/english'
+
+# nllb_model: nllb模型
+#   path: nllb模型路径
+nllb_model:
+  path: './nllb-200-distilled-600M'
+
+# log: 日志配置
+#   log_level: 日志级别
+#   log_dir: 日志目录
+#   log_stdout: 是否输出到控制台
+#   log_file: 是否输出到文件
+#   log_std_level: 控制台日志级别
+log:
+    log_level: 'INFO'
+    log_dir: './log'
+    log_stdout: true
+    log_file: true
+    log_std_level: 'DEBUG'
