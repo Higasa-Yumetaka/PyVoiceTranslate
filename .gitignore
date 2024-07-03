@@ -3,3 +3,4 @@
 /nllb-200-distilled-600M/pytorch_model.bin
 /nllb-200-distilled-600M/sentencepiece.bpe.model
 /language_models/english/final.zip
+.idea

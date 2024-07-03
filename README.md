@@ -1,4 +1,7 @@
-# WeNet + NLLB 语音识别与翻译
+# PyVoiceTranslate: WeNet + NLLB 语音识别与翻译
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python-Version](https://img.shields.io/badge/Python-3.7%7C3.8-brightgreen)](https://github.com/Higasa-Yumetaka/PyVoiceTranslate)
 
 ## 简介
 
@@ -102,13 +105,9 @@ python app.py
 本项目使用了WeNet和NLLB的模型，感谢WeNet和NLLB的开发者们为我们提供开发平台和模型。
 本项目使用了以下开源项目：
 
-- [WeNet](https://github.com/wenet-e2e/wenet) - 一个端到端语音识别和语音翻译的开源工具包。[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)协议
-- [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb) - Facebook AI Research的NLLB模型。[MIT License](https://opensource.org/licenses/MIT)协议
-
-### 本项目基于[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)协议进行分发
+- [WeNet](https://github.com/wenet-e2e/wenet) - 一个端到端语音识别和语音翻译的开源工具包。[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://github.com/wenet-e2e/wenet/blob/main/LICENSE)
+- [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb) - Facebook AI Research的NLLB模型。[![License](https://img.shields.io/badge/License-MIT%202.0-brightgreen.svg)](https://github.com/facebookresearch/fairseq/blob/nllb/LICENSE)
 
 ## 协议
 
-本项目使用[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)协议。
-
-在本地查看[Apache-2.0 License](LICENSE.txt)
+### 本项目基于[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)协议进行分发
