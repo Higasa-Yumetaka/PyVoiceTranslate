@@ -4,3 +4,4 @@
 /nllb-200-distilled-600M/sentencepiece.bpe.model
 /language_models/english/final.zip
 .idea
+/log

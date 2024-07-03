@@ -105,8 +105,8 @@ python app.py
 本项目使用了WeNet和NLLB的模型，感谢WeNet和NLLB的开发者们为我们提供开发平台和模型。
 本项目使用了以下开源项目：
 
-- [WeNet](https://github.com/wenet-e2e/wenet) - 一个端到端语音识别和语音翻译的开源工具包。[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://github.com/wenet-e2e/wenet/blob/main/LICENSE)
-- [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb) - Facebook AI Research的NLLB模型。[![License](https://img.shields.io/badge/License-MIT%202.0-brightgreen.svg)](https://github.com/facebookresearch/fairseq/blob/nllb/LICENSE)
+- [WeNet](https://github.com/wenet-e2e/wenet) - 一个端到端语音识别和语音翻译的开源工具包 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://github.com/wenet-e2e/wenet/blob/main/LICENSE)
+- [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb) - Facebook AI Research的NLLB模型 [![License](https://img.shields.io/badge/License-MIT%202.0-brightgreen.svg)](https://github.com/facebookresearch/fairseq/blob/nllb/LICENSE)
 
 ## 协议
 
