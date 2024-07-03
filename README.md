@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### 3. 准备模型
 
-WeNet提供了多种模型，包括中文、英文、法文、西班牙文等多种语言的语音识别和翻译模型。用户可以根据自己的需求选择合适的模型。模型下载地址：[WeNet Models](https://github.com/wenet-e2e/wenet/blob/main/docs/pretrained_models.md)
+WeNet提供了多种模型，用户可以根据自己的需求选择合适的模型。模型下载地址：[WeNet Models](https://github.com/wenet-e2e/wenet/blob/main/docs/pretrained_models.md)
 或者使用以下命令下载wenetspeech模型：
 
 ```python
